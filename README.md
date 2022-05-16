@@ -1,4 +1,4 @@
-### Hi there 👋 👋 👋
+### Hi there 👋 👋 👋 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=SeoKang's%20Github&fontAlignY=30&animation=fadeIn&desc=App%20Developer&descAlignY=60&descSize=30&fontColor=FFFFFF)
 
