@@ -21,7 +21,9 @@
 </p>
 
 <p align="center" display="inline-block">
-  [![wakatime](https://wakatime.com/badge/user/94266bf1-379b-4927-b1c5-de25883fe04c.svg)](https://wakatime.com/@94266bf1-379b-4927-b1c5-de25883fe04c)
+   <a href="https://wakatime.com/@94266bf1-379b-4927-b1c5-de25883fe04c">
+    <img src="https://wakatime.com/badge/user/94266bf1-379b-4927-b1c5-de25883fe04c.svg"/>
+  </a>
 </p>
 
 <!--
