@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
+<p align="center" display="inline-block">
+  [![wakatime](https://wakatime.com/badge/user/94266bf1-379b-4927-b1c5-de25883fe04c.svg)](https://wakatime.com/@94266bf1-379b-4927-b1c5-de25883fe04c)
+</p>
+
 <!--
 **Seokang/Seokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
