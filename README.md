@@ -27,6 +27,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2051%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 489.7 kB Used in GitHub's Storage 
@@ -75,7 +77,7 @@ Objective-C              1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 24/07/2024 18:40:29 UTC
+ Last Updated on 25/07/2024 18:37:12 UTC
 <!--END_SECTION:waka-->
 
 <!--
