@@ -27,13 +27,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2057%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 530.3 kB Used in GitHub's Storage 
- > 
-> 🏆 149 Contributions in the Year 2025
+> 📦 530.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,31 +37,6 @@
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                196 commits         ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.53 % 
-🌆 Daytime                927 commits         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   40.32 % 
-🌃 Evening                596 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.92 % 
-🌙 Night                  580 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -79,7 +50,7 @@ Objective-C              1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 26/03/2025 18:40:19 UTC
+ Last Updated on 27/03/2025 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
