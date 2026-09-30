@@ -35,7 +35,7 @@
 
 > 📦 490.3 kB Used in GitHub's Storage 
  > 
-> 🏆 573 Contributions in the Year 2026
+> 🏆 577 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -46,10 +46,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                279 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.64 % 
-🌆 Daytime                1154 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.01 % 
-🌃 Evening                765 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.18 % 
-🌙 Night                  424 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.17 % 
+🌞 Morning                279 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.62 % 
+🌆 Daytime                1154 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   43.95 % 
+🌃 Evening                769 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.28 % 
+🌙 Night                  424 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.15 % 
 ```
 
 
@@ -59,40 +59,36 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   1 hr 5 mins         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   55.94 % 
-Vue                      14 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.56 % 
-Other                    14 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.51 % 
-Markdown                 14 mins             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.14 % 
-SQL                      7 mins              ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.85 % 
+Markdown                 1 hr 44 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 25 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   73.35 % 
-Codex Vscode             31 mins             ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   26.65 % 
+IntelliJ IDEA            1 hr 22 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   78.21 % 
+Codex Vscode             22 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.79 % 
 
 💻 Operating System: 
-Mac                      1 hr 56 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      1 hr 44 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (99.65%)
+⏱ AI Coding Time: 1 hr 44 mins (100.0%)
 
-✍️ 35 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,895,571 Input Tokens, 113,164 Output Tokens
+🔤 1,429,236 Input Tokens, 81,413 Output Tokens
 
-💵 $31.67 Estimated AI Cost This Week
+💵 $21.32 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 79 AI Prompts
+🧠 10 AI Sessions, 49 AI Prompts
 
-GPT                      35 lines            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      9 lines             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,975 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📚 Verbose Prompter — average 20,099 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -109,7 +105,7 @@ Objective-C              1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 29/09/2026 22:31:07 UTC
+ Last Updated on 30/09/2026 22:29:16 UTC
 <!--END_SECTION:waka-->
 
 <!--
