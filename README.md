@@ -27,9 +27,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C707%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C708%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,42 +59,42 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 7 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.20 % 
-Other                    2 hrs 52 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.03 % 
-JavaScript               2 hrs 40 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.83 % 
-Kotlin                   2 hrs 12 mins       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.08 % 
-Vue                      1 hr 23 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.27 % 
+Markdown                 6 hrs 50 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.54 % 
+Other                    2 hrs 41 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.09 % 
+Kotlin                   2 hrs               ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.22 % 
+JavaScript               1 hr 23 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.85 % 
+Vue                      41 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.92 % 
 
 🔥 Editors: 
-Codex Vscode             16 hrs 29 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.71 % 
-IntelliJ IDEA            23 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.27 % 
-WebStorm                 0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.02 % 
+Codex Vscode             13 hrs 45 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.74 % 
+IntelliJ IDEA            18 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.23 % 
+WebStorm                 0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.03 % 
 
 💻 Operating System: 
-Mac                      16 hrs 53 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Mac                      14 hrs 4 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 49 mins (99.61%)
+⏱ AI Coding Time: 14 hrs 2 mins (99.72%)
 
-✍️ 4,330 lines written by AI, 11 lines written by hand (99.75% AI-written)
+✍️ 2,807 lines written by AI, 11 lines written by hand (99.61% AI-written)
 
-🔤 14,183,454 Input Tokens, 1,084,021 Output Tokens
+🔤 10,419,703 Input Tokens, 780,255 Output Tokens
 
-💵 $597.46 Estimated AI Cost This Week
+💵 $485.40 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 139 AI Prompts
+🧠 52 AI Sessions, 103 AI Prompts
 
-GPT                      4,460 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+GPT                      2,818 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📚 Verbose Prompter — average 1,591 characters per prompt
+🤖 AI-Driven — 99.61% of written lines came from AI
+📚 Verbose Prompter — average 1,945 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -110,7 +110,7 @@ Objective-C              1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 30/10/2026 07:32:04 UTC
+ Last Updated on 30/10/2026 22:34:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
