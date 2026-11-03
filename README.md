@@ -27,9 +27,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-241%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -43,60 +43,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                291 commits         ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.72 % 
-🌆 Daytime                1202 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.29 % 
-🌃 Evening                797 commits         ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.37 % 
-🌙 Night                  424 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 6 hrs 20 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.19 % 
-Other                    2 hrs 20 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.50 % 
-Kotlin                   1 hr 51 mins        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.76 % 
-Vue                      41 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.48 % 
-JavaScript               35 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.68 % 
-
-🔥 Editors: 
-Codex Vscode             12 hrs 20 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.76 % 
-IntelliJ IDEA            16 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.12 % 
-WebStorm                 0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.11 % 
-
-💻 Operating System: 
-Mac                      12 hrs 37 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 35 mins (99.69%)
-
-✍️ 2,686 lines written by AI, 11 lines written by hand (99.59% AI-written)
-
-🔤 9,033,982 Input Tokens, 706,857 Output Tokens
-
-💵 $446.00 Estimated AI Cost This Week
-
-🧠 47 AI Sessions, 91 AI Prompts
-
-GPT                      2,697 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
-Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📚 Verbose Prompter — average 2,010 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.41% of changed lines were hand-edited
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -110,7 +56,7 @@ Objective-C              1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 03/11/2026 01:09:32 UTC
+ Last Updated on 03/11/2026 23:34:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
